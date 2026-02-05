@@ -1,0 +1,6 @@
+git init 
+git add .
+git commit -m " i commited"
+git push origin <branch>
+git branch 
+git switch <branch>
